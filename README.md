@@ -23,7 +23,7 @@
 - [Results](#-results)
 - [Key Findings](#-key-findings)
 - [Methodology](#-methodology)
-- [Run it](#️-run-it)
+- [Run it](#-run-it)
 - [Repo structure](#-repo-structure)
 
 ---
